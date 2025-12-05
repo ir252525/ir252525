@@ -2,21 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-### A passionate computer vision developer <img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpkZnFoNDN2amUzeGY0ZTZ4d3hrNW54eGNiNTQ1Zm10ZmN4a2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif"/>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ir252525" alt="ir252525" /></a> </p>
 
 <h1 align="center">Connect with me:</h1>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/ir252525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ir252525" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/esmail-khosravi-7b735b272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esmail-khosravi-7b735b272" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img height="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VjN2x4dXJidGdjdGl6dW9sMHh5dnhkZjYzOGdmbWNnMm0xd2FwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITRemFlr5tS39AzQUL/giphy.gif"/>
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VjN2x4dXJidGdjdGl6dW9sMHh5dnhkZjYzOGdmbWNnMm0xd2FwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITRemFlr5tS39AzQUL/giphy.gif" height="200"/>
 </p>
 
-- 🔭 I'm currently working on **Clean Erath project**
+-  <img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpkZnFoNDN2amUzeGY0ZTZ4d3hrNW54eGNiNTQ1Zm10ZmN4a2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif"/> I'm currently working on **Clean Erath project**
 
 - 🌱 I'm currently learning **Object detection and AI development**
 
