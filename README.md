@@ -11,16 +11,15 @@
 <a href="https://linkedin.com/in/esmail-khosravi-7b735b272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esmail-khosravi-7b735b272" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VjN2x4dXJidGdjdGl6dW9sMHh5dnhkZjYzOGdmbWNnMm0xd2FwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITRemFlr5tS39AzQUL/giphy.gif" height="200"/>
-</p>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VjN2x4dXJidGdjdGl6dW9sMHh5dnhkZjYzOGdmbWNnMm0xd2FwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITRemFlr5tS39AzQUL/giphy.gif" height="200"/>
 
 -  <img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpkZnFoNDN2amUzeGY0ZTZ4d3hrNW54eGNiNTQ1Zm10ZmN4a2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif"/> I'm currently working on **Clean Erath project**
 
-- 🌱 I'm currently learning **Object detection and AI development**
+- <img height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3YzenVkczhzeHM3ZmRuOGp0MWdxeno4ZGF6NWlha3hmMjlic2JibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif"/> I'm currently learning **Object detection and AI development**
 
-- 📫 How to reach me **esmailkhosravi1382@gmail.com**
+- <img height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJyZHlzbTh4NjhsZmt6azkwc3g3ODViZWtoajgzaGw4MGV6ZmFtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3DgFHNLvJkPrSZhPky/giphy.gif"/> How to reach me **esmailkhosravi1382@gmail.com**
 
-- ⚡ Fun fact **I think AI haven't been invented yet** <p align="raight"> <img height="20" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpnaHMycTgwZTEwcXo3bGVpbXh2cHV2enFyYng2aTc0MXo5cjVvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPj5oRtJzQGxwzuCKV/giphy.gif"/>
+- <img height="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuZDVyMGlzaGs3OHE4bG0ycmQxenlvdTN4YW9rc2JkMXI1cWZlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mN6w7rqgIewoiBvN60/giphy.gif"/> Fun fact **I think AI haven't been invented yet** <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpnaHMycTgwZTEwcXo3bGVpbXh2cHV2enFyYng2aTc0MXo5cjVvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPj5oRtJzQGxwzuCKV/giphy.gif"/>
 </p>
 
 
