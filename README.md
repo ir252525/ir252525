@@ -1,10 +1,19 @@
-# Hi 👋, I'm ir252525
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!😃&animation=fadeIn&type=venom&color=gradient&height=100"/>
+</p>
 ### A passionate computer vision developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ir252525&label=Profile views&color=0e75b6&style=flat" alt="ir252525" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ir252525" alt="ir252525" /></a> </p>
+
+<h3 align="left">Connect with me:</h3><p align="center"> <img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpkZnFoNDN2amUzeGY0ZTZ4d3hrNW54eGNiNTQ1Zm10ZmN4a2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif"/>
+</p>
+<p align="left">
+<a href="https://github.com/ir252525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ir252525" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/esmail-khosravi-7b735b272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esmail-khosravi-7b735b272" height="30" width="40" /></a>
+</p>
+
+<p align="center"> <img height="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VjN2x4dXJidGdjdGl6dW9sMHh5dnhkZjYzOGdmbWNnMm0xd2FwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITRemFlr5tS39AzQUL/giphy.gif"/>
+</p>
 
 - 🔭 I'm currently working on **Clean Erath project**
 
@@ -12,13 +21,9 @@
 
 - 📫 How to reach me **esmailkhosravi1382@gmail.com**
 
-- ⚡ Fun fact **I think AI haven't been invented yet**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ir252525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ir252525" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/esmail-khosravi-7b735b272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esmail-khosravi-7b735b272" height="30" width="40" /></a>
+- ⚡ Fun fact **I think AI haven't been invented yet** <p align="raight"> <img height="20" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpnaHMycTgwZTEwcXo3bGVpbXh2cHV2enFyYng2aTc0MXo5cjVvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPj5oRtJzQGxwzuCKV/giphy.gif"/>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a></p>
