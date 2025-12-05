@@ -33,7 +33,8 @@ fields_of_interests:
   ]
   
 2027 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Music", "Comedy"]```
+hobbies: ["Gaming", "Cinema", "Music", "Comedy"]
+```
 ---
 -  <img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpkZnFoNDN2amUzeGY0ZTZ4d3hrNW54eGNiNTQ1Zm10ZmN4a2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif"/> I'm currently working on **Clean Erath project**
 
