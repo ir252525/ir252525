@@ -2,17 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 <p align="center">
-  <img height="200" width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc1eWZ3ODVqOTd1N2x0dHhzNGo0c3kzMnpwemkxaGQ2YXlqM2xpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"/>
+  <img height="200" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc1eWZ3ODVqOTd1N2x0dHhzNGo0c3kzMnpwemkxaGQ2YXlqM2xpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"/>
 </p>
 
-<h1 align="center">Connect with me:</h1>
 
-<p align="center">
-<a href="https://github.com/ir252525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ir252525" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/esmail-khosravi-7b735b272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esmail-khosravi-7b735b272" height="30" width="40" /></a>
-</p>
-
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests
 ```yaml
 name: Esmail Khosravi
 located_in: IRAN,Markazi
@@ -44,7 +38,14 @@ hobbies: ["Gaming", "Cinema", "Music", "Comedy"]
 
 - <img height="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuZDVyMGlzaGs3OHE4bG0ycmQxenlvdTN4YW9rc2JkMXI1cWZlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mN6w7rqgIewoiBvN60/giphy.gif"/> Fun fact **I think AI haven't been invented yet**
 
-<p align="center"> <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpnaHMycTgwZTEwcXo3bGVpbXh2cHV2enFyYng2aTc0MXo5cjVvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPj5oRtJzQGxwzuCKV/giphy.gif"/>
+<p align="center"> <img height="300" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpnaHMycTgwZTEwcXo3bGVpbXh2cHV2enFyYng2aTc0MXo5cjVvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPj5oRtJzQGxwzuCKV/giphy.gif"/>
+</p>
+
+<h1 align="center">Connect with me:</h1>
+
+<p align="center">
+<a href="https://github.com/ir252525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ir252525" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/esmail-khosravi-7b735b272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esmail-khosravi-7b735b272" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ir252525" alt="ir252525" /></a> </p>
