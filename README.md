@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpkZnFoNDN2amUzeGY0ZTZ4d3hrNW54eGNiNTQ1Zm10ZmN4a2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif"/>### A passionate computer vision developer
+### A passionate computer vision developer <img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpkZnFoNDN2amUzeGY0ZTZ4d3hrNW54eGNiNTQ1Zm10ZmN4a2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ir252525" alt="ir252525" /></a> </p>
 
