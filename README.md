@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-### A passionate computer vision developer
+<img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpkZnFoNDN2amUzeGY0ZTZ4d3hrNW54eGNiNTQ1Zm10ZmN4a2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif"/>### A passionate computer vision developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ir252525" alt="ir252525" /></a> </p>
 
-<h1 align="center">Connect with me<img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpkZnFoNDN2amUzeGY0ZTZ4d3hrNW54eGNiNTQ1Zm10ZmN4a2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif"/>:</h1>
+<h1 align="center">Connect with me:</h1>
 
 <p align="left">
 <a href="https://github.com/ir252525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ir252525" height="30" width="40" /></a>
